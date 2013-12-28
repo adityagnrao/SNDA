@@ -1,0 +1,1 @@
+delete from members where email='angelina@csci585.edu'

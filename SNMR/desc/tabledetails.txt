@@ -1,0 +1,24 @@
+
+
+name of tables:
+
+tagged_in;
+took_at;
+photo;
+post_comment;
+post_like;
+Post;
+watched;
+movie;
+checkedin;
+invited;
+event;
+friendship;
+members;
+detail;
+place;
+page;
+address;
+
+name of trigger:
+COMPUTE_AGE_MONTH;
